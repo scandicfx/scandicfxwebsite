@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "index3.html",
     "name": "ScandicFX - Where trading is no longer difficult",
     "theme": {
       "name": "mobirise3",
@@ -1337,6 +1337,12 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-7n",
           "_params": {
             "imageSize": 50,
@@ -1382,13 +1388,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "The whole idea came from two normal human being which already starts forex trading and tried so many trading techniques. However, their trading entry is not so impressive. <br><br><br>After years of research on the currency chart, they found a new way of analysing by using just an empty chart. They had combined two methods into one powerful methods to analyse the market. One is Fibo Musang (FM) and Candlesticks Break and Retest (CBR) and from there, Fibo Musang + Candlesticks Break and Retest (FMCBR) is borned. Yes! It is two method that combine to compliment each techniques for you to enter the market.<br><br><br>In this techniques, participant will get six primary modules that have been shared in the seminar. Fibo Musang &amp; CBR technique is very easy to practice and has been proven in Forex technical analysis.<br><br><br>With this technique, you will get:<br>˃ A sharp entry, because you know where, how and why you enter a position with help of CBR technique.<br><br>˃ A maximum profit because by using Musang Candle, you will know at least 80% level where you should exit. .<br><br>˃ Multi-level entries using CBR Key, thus you will not worry if you miss any entry.<br><br><br>You can use this technique and combine it with other techniques that you wanted with other techniques that you wanted. Nevertheless, this technique can be used on its own.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#000000",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -5028,6 +5028,11 @@
             "Extension"
           ],
           "_name": "extMsg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "extMsg-box2-7o",
           "_params": {
             "animText1": "SIMPLE",
@@ -5038,7 +5043,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11250.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5054,12 +5059,7 @@
           },
           "title": "INTRODUCING YOU THE MOST<br>",
           "text": "Message-box with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"courses.html\" data-toolbar=\"-mbrBtnMove\">TAKE ME</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"courses.html\" data-toolbar=\"-mbrBtnMove\">TAKE ME</a>"
         },
         {
           "_inherit": "header1",
