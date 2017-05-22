@@ -5031,7 +5031,7 @@
           "_styles": {
             "SPAN": {
               "color": "#000000",
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_anchor": "extMsg-box2-7o",
@@ -5044,7 +5044,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11254.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
