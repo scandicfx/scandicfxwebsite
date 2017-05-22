@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index3.html",
+    "currentPage": "index.html",
     "name": "ScandicFX - Where trading is no longer difficult",
     "theme": {
       "name": "mobirise3",
@@ -5043,7 +5043,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11251.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5052,7 +5052,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#faaf40",
+            "overlayColor": "#553982",
             "showTitle": true,
             "showText": false,
             "showButtons": true
