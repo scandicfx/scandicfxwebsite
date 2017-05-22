@@ -5030,7 +5030,8 @@
           "_name": "extMsg-box2",
           "_styles": {
             "SPAN": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "48px"
             }
           },
           "_anchor": "extMsg-box2-7o",
@@ -5038,12 +5039,12 @@
             "animText1": "SIMPLE",
             "animText2": "AWESOME",
             "animText3": "EASY-TO-USE METHOD",
-            "typeSpeed": 60,
+            "typeSpeed": "80",
             "paddingTop": "4",
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stockholm-river-building-top-view-28528-1920x1080-2000x11252.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5051,8 +5052,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#553982",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": false,
             "showButtons": true
